@@ -1,20 +1,20 @@
 # Hi, I am Maxim Ryachkin
 
-Programmer technician at Rosatom (SSC RIAR).
-Building at the intersection of software, product, and business.
+I work as a programmer technician at Rosatom (SSC RIAR).
+I am developing at the intersection of software, product, and business.
 
 ---
 
-## Current focus
+## What I am working on
 - Python and PostgreSQL
-- Golang (active learning)
-- Building small IT products
+- Golang (learning in my free time)
+- Building small IT products from scratch
 
-## Featured repositories
+## My repositories
 - [python-postgresql-practice](https://github.com/t11r33d/python-postgresql-practice) - Python and PostgreSQL hands-on projects
-- [go-learning-notes](https://github.com/t11r33d/go-learning-notes) - Golang learning notes
-- [product-and-growth-cases](https://github.com/t11r33d/product-and-growth-cases) - Product and growth case studies
+- [go-learning-notes](https://github.com/t11r33d/go-learning-notes) - My Golang learning notes
+- [product-and-growth-cases](https://github.com/t11r33d/product-and-growth-cases) - Cases from my product and growth experience
 
-## Contacts
+## Get in touch
 - Telegram: [@t1r33d](https://t.me/t1r33d)
 - Email: maksryachkin1@gmail.com
