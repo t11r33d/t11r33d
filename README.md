@@ -1,13 +1,12 @@
 # Hi, I am Maxim Ryachkin
 
-I work as a programmer technician at Rosatom (SSC RIAR).
 I build things at the intersection of code and real results.
 
 ---
 
 ## What I am currently working on
-- Python and PostgreSQL at work
-- Learning Golang in my free time
+- Python and PostgreSQL
+- Learning Golang
 
 ## My repositories
 - [python-postgresql-practice](https://github.com/t11r33d/python-postgresql-practice) - Python scripts, automation and data projects
