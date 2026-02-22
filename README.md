@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I am Maxim Ryachkin
 
-<!--
-**t11r33d/t11r33d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programmer technician at Rosatom (SSC RIAR). I am developing at the intersection of software, product, and business.
 
-Here are some ideas to get you started:
+## Current focus
+- Python and PostgreSQL
+- Golang (active learning)
+- Building small IT products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured repositories
+- [python-postgresql-practice](https://github.com/t11r33d/python-postgresql-practice)
+- [go-learning-notes](https://github.com/t11r33d/go-learning-notes)
+- [product-and-growth-cases](https://github.com/t11r33d/product-and-growth-cases)
+
+## Contacts
+- Telegram: [@t1r33d](https://t.me/t1r33d)
+- Email: maksryachkin1@gmail.com
