@@ -1,6 +1,6 @@
 # Hi, I am Maxim Ryachkin
 
-I build things at the intersection of code and real results.
+I share my progress in learning Go, Python and their adjacent technologies.
 
 ---
 
